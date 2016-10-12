@@ -1,32 +1,32 @@
 {
   "result": [
   {
-    "Nombre" : "Jesus",
+    "Name" : "Jesus",
     "Hobby" : "VideoJuegos",
-    "Edad" : "22",
-    "Telefono" : "3334245895",
-    "Direccion" : "GDL"
+    "Age" : "22",
+    "Telephone" : "3334245895",
+    "Address" : "GDL"
   },
   {
-    "Nombre" : "Hector",
+    "Name" : "Hector",
     "Hobby" : "Kpop",
-    "Edad" : "22",
-    "Telefono" : "6642698557",
-    "Direccion" : "GDL"
+    "Age" : "22",
+    "Telephone" : "6642698557",
+    "Address" : "GDL"
   },
   {
-    "Nombre" : "Felix",
+    "Name" : "Felix",
     "Hobby" : "Aikido",
-    "Edad" : "22",
-    "Telefono" : "3333454837",
-    "Direccion" : "GDL"
+    "Age" : "22",
+    "Telephone" : "3333454837",
+    "Address" : "GDL"
   },
   {
-    "Nombre" : "Erik",
+    "Name" : "Erik",
     "Hobby" : "Pistear con la Rose",
-    "Edad" : "22",
-    "Telefono" : "3333454837",
-    "Direccion" : "GDL"
+    "Age" : "22",
+    "Telephone" : "3333454837",
+    "Address" : "GDL"
   }
 ]
 }
