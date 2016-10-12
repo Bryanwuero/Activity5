@@ -1,0 +1,32 @@
+{
+  "result": [
+  {
+    "Nombre" : "Jesus",
+    "Hobby" : "VideoJuegos",
+    "Edad" : "22",
+    "Telefono" : "3334245895",
+    "Direccion" : "GDL"
+  },
+  {
+    "Nombre" : "Hector",
+    "Hobby" : "Kpop",
+    "Edad" : "22",
+    "Telefono" : "6642698557",
+    "Direccion" : "GDL"
+  },
+  {
+    "Nombre" : "Felix",
+    "Hobby" : "Aikido",
+    "Edad" : "22",
+    "Telefono" : "3333454837",
+    "Direccion" : "GDL"
+  },
+  {
+    "Nombre" : "Erik",
+    "Hobby" : "Pistear con la Rose",
+    "Edad" : "22",
+    "Telefono" : "3333454837",
+    "Direccion" : "GDL"
+  }
+]
+}
