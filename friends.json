@@ -4,28 +4,28 @@
     "Name" : "Jesus",
     "Hobby" : "VideoJuegos",
     "Age" : "22",
-    "Telephone" : "3334245895",
+    "Phone" : "3334245895",
     "Address" : "GDL"
   },
   {
     "Name" : "Hector",
     "Hobby" : "Kpop",
     "Age" : "22",
-    "Telephone" : "6642698557",
+    "Phone" : "6642698557",
     "Address" : "GDL"
   },
   {
     "Name" : "Felix",
     "Hobby" : "Aikido",
     "Age" : "22",
-    "Telephone" : "3333454837",
+    "Phone" : "3333454837",
     "Address" : "GDL"
   },
   {
     "Name" : "Erik",
     "Hobby" : "Pistear con la Rose",
     "Age" : "22",
-    "Telephone" : "3333454837",
+    "Pphone" : "3333454837",
     "Address" : "GDL"
   }
 ]
